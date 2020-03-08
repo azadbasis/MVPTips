@@ -1,0 +1,4 @@
+#Sat Mar 07 12:38:07 BDT 2020
+base.0=D\:\\Android\\ArchitecturalPattern\\MVPOne\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
